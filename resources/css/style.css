@@ -19,3 +19,47 @@ body {
 }
 
 /* Header */
+header{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/tortoiseshell-optics/resources/images/glasses-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 1rem;
+  height: 30rem;
+}
+
+h1 {
+
+}
+
+nav {
+
+}
+
+nav div {
+
+}
+
+nav img {
+
+}
+
+ul {
+
+}
+
+ul li {
+
+}
+
+.shortened-menu {
+  display: none;
+}
+
+header .flex {
+
+}
+
+.main-banner {
+
+}
