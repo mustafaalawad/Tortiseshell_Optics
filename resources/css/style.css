@@ -184,7 +184,7 @@ footer img {
     display: none;
   }
 
-  .menu .ul.truncated-menu {
+  .menu ul.shortened-menu {
     display: block;
   }
 }
@@ -193,6 +193,10 @@ footer img {
   header {
     background-position: 20%;
     height: 17rem;
+  }
+
+  header div span {
+    display: none;
   }
 
   .main-banner {
