@@ -60,6 +60,17 @@ nav img {
 
 ul {
   margin-right: 1rem;
+  /*display: block;
+  list-style-type: disc;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 40px;*/
+}
+
+.menu{
+padding-left: 40px; 
 }
 
 ul li {
