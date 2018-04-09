@@ -32,6 +32,12 @@ header{
   height: 30rem;
 }
 
+.menu {
+  display: flex;
+  align-items: flex-end;
+  padding-left: 320px;
+}
+
 h1 {
  font-size: 2rem;
  margin: .67em 0;
