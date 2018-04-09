@@ -33,7 +33,7 @@ header{
 }
 
 .menu {
-  display: flex;
+  display: inline-flex;
   align-items: flex-end;
   padding-left: 320px;
 }
@@ -182,6 +182,7 @@ footer img {
   .main-banner h1 {
     font-size: 1.33rem;
   }
+
 }
 
 /* Mobile Styles */
